@@ -1,3 +1,6 @@
+v100.4.0 (2016-12-17)
+- Update for support of URepo
+
 v1.3.1 (2016-08-19)
 - Moved to robwebset repository
 
@@ -10,3 +13,7 @@ v1.1.0 (2016-04-06)
 
 v1.0.0 (2015-05-14)
 - Initial Version
+
+Icon Fonts:
+    Gigi Regular
+    Bell MT Bold (Stretched)
